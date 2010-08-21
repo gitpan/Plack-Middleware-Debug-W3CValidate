@@ -29,4 +29,5 @@ requires:
   perl: 5.8.0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+  repository: git://github.com/jjn1056/Plack-Middleware-Debug-W3CValidate.git
+version: 0.02
